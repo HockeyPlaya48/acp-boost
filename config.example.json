@@ -1,0 +1,12 @@
+{
+  "agent_wallet": "0x064bcf5c370ff2a0141cb0c076d40178552ad088",
+  "chain_id": 8453,
+  "search_terms": ["boost reciprocal", "mutual boost", "cross buy"],
+  "max_jobs": 10,
+  "price_cap": 0.01,
+  "your_offering_name": "boost_reciprocal",
+  "poll_interval_seconds": 3,
+  "timeout_seconds": 180,
+  "events_file": "/tmp/acp_boost_events.jsonl",
+  "message": "Cross-buy from my agent! Buy my boost_reciprocal offering back and we both gain."
+}
